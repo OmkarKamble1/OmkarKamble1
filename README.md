@@ -15,10 +15,10 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkamble1&show_icons=true&locale=en&layout=compact" alt="omkarkamble1" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkamble1&layout=compact&theme=dark&bg_color=0A0A0A" alt="Omkar's Top Languages"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkamble1&show_icons=true&locale=en" alt="omkarkamble1" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkamble1&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Omkar's Github Stats"></p>
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkamble1&" alt="omkarkamble1" /></p>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkamble1&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkamble1" /> </p>
