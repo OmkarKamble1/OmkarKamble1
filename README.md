@@ -29,7 +29,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkamble1&layout=compact&theme=dark&bg_color=0A0A0A" alt="Omkar's Top Languages"/></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkamble1&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FFFFFF&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Omkar's Github Stats"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkamble1&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FFFFFF&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Omkar's Github Stats"></p>
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkamble1&" alt="omkarkamble1" /></p>
 -->
