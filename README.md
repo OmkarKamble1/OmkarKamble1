@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/omkar-kamble-961655164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-kamble-961655164" height="30" width="40" /></a>
 <a href="https://instagram.com/0mkarrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0mkarrrr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omkarkamble1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkarkamble1" height="30" width="40" /></a>
-<a href="https://omkarkamble.tech" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Portfolio" height="30" width="30" /></a>
+<a href="https://omkarkamble.tech" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
 
 
