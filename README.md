@@ -3,9 +3,7 @@
 
 
 <p align="center">
-  <em>currently:</em> shipping <a href="https://omkarkamble.vercel.app">Oneflow</a> (D2C ops infra)
-  · breaking and fixing fleet-management systems for mining and power plants · over-engineering
-  side projects that nobody asked for
+  <em>currently:</em> shipping <a href="https://oneflowai.in">Oneflow</a> (D2C ops infra)
 </p>
 
 <h3 align="center">find me at</h3>
