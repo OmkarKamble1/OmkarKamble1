@@ -1,11 +1,6 @@
 <h1 align="center">hey, I'm Omkar 👋</h1>
 <h3 align="center">full-stack dev from India · I build things end-to-end</h3>
 
-<p align="center">
-  embedded firmware on tiny chips, backends that talk to those chips, mobile apps that talk to
-  those backends, and dashboards that make sense of all of it. I like the whole loop — from
-  soldering a board at 2am to shipping a Next.js page that visualises what the board is doing.
-</p>
 
 <p align="center">
   <em>currently:</em> shipping <a href="https://omkarkamble.vercel.app">Oneflow</a> (D2C ops infra)
