@@ -7,20 +7,20 @@
 </p>
 
 <h3 align="center">find me at</h3>
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <a href="https://linkedin.com/in/omkar-kamble-961655164" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" />
   </a>
   <a href="https://instagram.com/0mkarrrr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" />
   </a>
   <a href="https://www.leetcode.com/omkarkamble1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
   </a>
   <a href="https://omkarkamble.vercel.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" alt="Portfolio" height="30" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" height="32" />
   </a>
-</p>
+</div>
 
 <hr>
 
